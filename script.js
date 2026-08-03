@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function () {
     function downloadResume() {
         try {
             const link = document.createElement('a');
-            link.href = '/asset/siddharth_resume.pdf'; // You would put actual PDF data here
+            link.href = '/asset/Kamesh Resume.pdf'; // You would put actual PDF data here
             link.download = 'Kamesh Resume.pdf';
             link.target = '_blank';
             document.body.appendChild(link);
