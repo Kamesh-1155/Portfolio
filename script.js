@@ -180,7 +180,7 @@ document.addEventListener('DOMContentLoaded', function () {
             title: "Restaurant Order App",
             description: "Complete Restaurant Management at one place.",
             demoUrl: "",
-            githubUrl: "",
+            githubUrl: "https://github.com/Kamesh-1155/Order-Management",
             features: [
                 "Real-Time Restaurant Order Management",
                 "Live Kitchen Dashboard",
